@@ -1,0 +1,7 @@
+# Ignore environment files
+.env
+
+# Ignore private and public key files
+private.key
+public.key
+node_modules/
